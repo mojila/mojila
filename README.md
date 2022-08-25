@@ -72,5 +72,5 @@
 <p>
   <b>Skills:</b> NodeJS | React | React Native | Vue | Flutter | MongoDB | PostgreSQL | Docker | Kubernetes | Rust
   <br/>
-  <b>Interests:</b> Riding Motorcycle, Reading, Film, Culinary
+  <b>Interests:</b> Riding Motorcycle, Reading, Film, Culinary, Comic
 </p>
