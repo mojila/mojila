@@ -70,7 +70,7 @@
 <h3>SKILL & INTERESTS</h3>
 <hr/>
 <p>
-  <b>Skills:</b> NodeJS | React | React Native | Vue | Flutter | MongoDB | PostgreSQL | Docker | Kubernetes
+  <b>Skills:</b> NodeJS | React | React Native | Vue | Flutter | MongoDB | PostgreSQL | Docker | Kubernetes | Rust
   <br/>
   <b>Interests:</b> Riding Motorcycle, Reading, Film, Culinary
 </p>
