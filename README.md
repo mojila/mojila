@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">
+  Moch. Aji Laksono
+</h2>
+<p align="center">
+  Surabaya, Indonesia | LinkedIn: Aji Laksono | +62821-2040-2431 | me.mojila@gmail.com
+</p>
 
-<!--
-**mojila/mojila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>EDUCATION</h2>
+<p>
+  <b>Politeknik Elektronika Negeri Surabaya</b> | <span>Surabaya, Indonesia</span>
+  <br/>
+  <i>Bachelor Degree in Informatics Engineering (GPA: 3.37)</i>
+  <ul>
+    <li>
+      Organizations/Awards: PENS Web Developer Leader, PENS Robotic, Basic & Intermediate Leadership Training, PKM Technology Funded, 1st Winner ITCC Udayana 2018 Information System Field.
+    </li>
+  </ul>
+</p>
