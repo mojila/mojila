@@ -2,7 +2,7 @@
   Moch. Aji Laksono
 </h2>
 <p align="center">
-  Surabaya, Indonesia | LinkedIn: <a href="https://www.linkedin.com/in/mojila/">Aji Laksono</a> | +62821-2040-2431 | me.mojila@gmail.com
+  Surabaya, Indonesia | LinkedIn: <a href="https://www.linkedin.com/in/mojila/">Aji Laksono</a> | +62821-2040-2431 | <a href="mailto:me.mojila@gmail.com">me.mojila@gmail.com</a>
 </p>
 
 <h3>EDUCATION</h3>
