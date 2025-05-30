@@ -1,5 +1,5 @@
 <h2 align="center">
-  Moch. Aji Laksono
+  Mojila a.k.a Moch. Aji Laksono
 </h2>
 <p align="center">
   Surabaya, Indonesia | LinkedIn: <a href="https://www.linkedin.com/in/mojila/">Aji Laksono</a> | <a href="mailto:me.mojila@gmail.com">me.mojila@gmail.com</a>
