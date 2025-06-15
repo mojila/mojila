@@ -10,54 +10,54 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #334155, #475569); padding: 20px; border-radius: 12px; margin: 10px;">
-           <img src="images/linimasa.png" alt="Linimasa.AI Preview" style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 15px;"/>
-           <h3><a href="https://github.com/mojila/linimasa-ai" target="_blank" style="color: white; text-decoration: none;">🤖 Linimasa.AI</a></h3>
-          <p><strong>Status:</strong> <span style="background: #64748B; color: white; padding: 4px 8px; border-radius: 4px;">Ongoing</span></p>
-           <p><strong>Role:</strong> <span style="background: #0F766E; color: white; padding: 4px 8px; border-radius: 4px;">Full-stack</span></p>
-          <p><strong>Tech Stack:</strong></p>
-          <p>🦀 Rust • ⚛️ React.js • 🧠 Ollama LLM • 🔧 Qdrant</p>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #334155, #475569); padding: 20px; border-radius: 12px; margin: 10px;">
-           <img src="images/dealls.png" alt="Deals Job Preview" style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 15px;"/>
-           <h3><a href="https://dealls.com" target="_blank" style="color: white; text-decoration: none;">💼 Deals Job</a></h3>
-          <p><strong>Status:</strong> <span style="background: #0F766E; color: white; padding: 4px 8px; border-radius: 4px;">Online</span></p>
-           <p><strong>Role:</strong> <span style="background: #1E40AF; color: white; padding: 4px 8px; border-radius: 4px;">Technical Lead - Backend</span></p>
-          <p><strong>Tech Stack:</strong></p>
-          <p>🟢 Node.js • 🐘 PostgreSQL • 🔧 Redis • 🎯 Kafka</p>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #334155, #475569); padding: 20px; border-radius: 12px; margin: 10px;">
-           <img src="images/kantorku.png" alt="Kantorku Preview" style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 15px;"/>
-           <h3><a href="https://kantorku.id" target="_blank" style="color: white; text-decoration: none;">🏢 Kantorku</a></h3>
-          <p><strong>Status:</strong> <span style="background: #0F766E; color: white; padding: 4px 8px; border-radius: 4px;">Online</span></p>
-           <p><strong>Role:</strong> <span style="background: #1E40AF; color: white; padding: 4px 8px; border-radius: 4px;">Technical Lead - Backend</span></p>
-          <p><strong>Tech Stack:</strong></p>
-          <p>🐹 Go • 🐘 PostgreSQL • 🔧 Redis • 🎯 Kafka</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3">
-        <div style="background: linear-gradient(135deg, #334155, #475569); padding: 20px; border-radius: 12px; margin: 10px;">
-          <h3>🔒 Hidden</h3>
-          <p><strong>Status:</strong> <span style="background: #64748B; color: white; padding: 4px 8px; border-radius: 4px;">Ongoing</span></p>
-           <p><strong>Role:</strong> <span style="background: #6366F1; color: white; padding: 4px 8px; border-radius: 4px;">Frontend, Desktop</span></p>
-          <p><strong>Tech Stack:</strong></p>
-          <p>⚛️ React JS • 🦀 Rust</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+### [📊 Mojila Signal](https://github.com/mojila/mojila-signal)
+
+<div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Testing-ffc107?style=flat-square&logo=flask&logoColor=black" alt="Testing"/></p>
+  <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Backend-dc3545?style=flat-square&logo=server&logoColor=white" alt="Backend"/></p>
+  <p><strong>🛠️ Tech Stack:</strong> Python, Yahoo Finance, Telegram Bot</p>
+  <p><strong>📝 Description:</strong> A financial data processing and analysis system that leverages Yahoo Finance API for real-time market data collection and signal generation.</p>
+</div>
+
+### [🌐 Linimasa.AI](https://linimasa.ai)
+<img src="./images/linimasa.png" alt="Linimasa.AI Preview" style="width: 100%; max-width: 600px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+<div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Production-28a745?style=flat-square&logo=checkmarx&logoColor=white" alt="Production"/></p>
+  <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Fullstack-6366f1?style=flat-square&logo=stackshare&logoColor=white" alt="Fullstack"/></p>
+  <p><strong>🛠️ Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Supabase, Ollama, Qdrant</p>
+  <p><strong>📝 Description:</strong> A comprehensive social media management platform that revolutionizes content creation and scheduling. Features AI-powered content generation, advanced analytics, and seamless multi-platform integration.</p>
+</div>
+
+### [💼 Deals Job](https://dealls.com)
+<img src="./images/dealls.png" alt="Deals Job Preview" style="width: 100%; max-width: 600px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+<div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Production-28a745?style=flat-square&logo=checkmarx&logoColor=white" alt="Production"/></p>
+  <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Technical%20Lead%20Backend-dc3545?style=flat-square&logo=server&logoColor=white" alt="Technical Lead Backend"/></p>
+  <p><strong>🛠️ Tech Stack:</strong> Node.js, PostgreSQL, Redis, Kafka</p>
+  <p><strong>📝 Description:</strong> A comprehensive job marketplace platform connecting talented professionals with leading companies. Features advanced matching algorithms, real-time notifications, and seamless application management.</p>
+</div>
+
+### [🏢 Kantorku](https://kantorku.id)
+<img src="./images/kantorku.png" alt="Kantorku Preview" style="width: 100%; max-width: 600px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+<div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Production-28a745?style=flat-square&logo=checkmarx&logoColor=white" alt="Production"/></p>
+  <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Technical%20Lead%20Backend-dc3545?style=flat-square&logo=server&logoColor=white" alt="Technical Lead Backend"/></p>
+  <p><strong>🛠️ Tech Stack:</strong> Go, PostgreSQL, Redis, Kafka</p>
+  <p><strong>📝 Description:</strong> A modern office management and workspace solution that streamlines business operations. Provides comprehensive tools for facility management, booking systems, and administrative workflows.</p>
+</div>
+
+### 🔒 Hidden
+
+<div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Development-ffc107?style=flat-square&logo=flask&logoColor=black" alt="Development"/></p>
+  <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Frontend%20Desktop-6366f1?style=flat-square&logo=desktop&logoColor=white" alt="Frontend Desktop"/></p>
+  <p><strong>🛠️ Tech Stack:</strong> React.js, Rust</p>
+  <p><strong>📝 Description:</strong> A confidential project currently under development, focusing on desktop application development with modern web technologies and system-level programming.</p>
 </div>
 
 ---
