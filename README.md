@@ -13,6 +13,7 @@
 ## 🚀 Featured Projects
 
 ### [📊 Mojila Signal](https://github.com/mojila/mojila-signal)
+<img src="./images/mojilasignal.png" alt="Linimasa.AI Preview" style="width: 100%; max-width: 600px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
 <div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
   <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Testing-ffc107?style=flat-square&logo=flask&logoColor=black" alt="Testing"/></p>
