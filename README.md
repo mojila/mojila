@@ -26,7 +26,7 @@
 <img src="./images/linimasa.png" alt="Linimasa.AI Preview" style="width: 100%; max-width: 600px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
 <div style="background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); padding: 20px; border-radius: 12px; margin: 16px 0; border-left: 4px solid #3b82f6;">
-  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Development-28a745?style=flat-square&logo=checkmarx&logoColor=white" alt="Development"/></p>
+  <p><strong>🎯 Status:</strong> <img src="https://img.shields.io/badge/Development-ffc107?style=flat-square&logo=flask&logoColor=black" alt="Development"/></p>
   <p><strong>👨‍💻 Role:</strong> <img src="https://img.shields.io/badge/Fullstack-6366f1?style=flat-square&logo=stackshare&logoColor=white" alt="Fullstack"/></p>
   <p><strong>🛠️ Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Supabase, Ollama, Qdrant</p>
   <p><strong>📝 Description:</strong> A comprehensive social media management platform that revolutionizes content creation and scheduling. Features AI-powered content generation, advanced analytics, and seamless multi-platform integration.</p>
